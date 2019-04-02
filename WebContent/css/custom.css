@@ -1,0 +1,241 @@
+* {
+	margin:0;
+	padding:0;
+}
+.gr {
+	background-color:gray;
+}
+
+.sv {
+	background-color:whitesmoke;
+}
+
+.b {
+	background-color:black;
+}
+.bp {
+	background-color:white;
+}
+#h7 {
+	color:white;
+	text-align:left;
+	font-size: 16px;
+	padding:8px 12px;
+}
+
+#hp {
+	color:white;
+	text-align:left;
+	font-size: 15px;
+	padding:8px 10px;
+}
+
+#a3 {
+	color:black;
+	text-align:left;
+	padding: 8px 10px;
+	font-size: 25px;
+}
+
+#a {
+	color:white;
+	text-align:right;
+}
+
+#a5 {
+	color:white;
+	text-align:left;
+	font-size:15px;
+}
+
+#pk1  {
+	color:black;
+	text-align:center;
+	font-size:15px;
+}
+
+#a4 {
+	color:black;
+	text-align:right;
+	padding: 8px 10px;
+	letter-spacing: 1px;
+	
+}
+
+#a1 {
+	color:black;
+	margin:0px;
+	letter-spacing:1px;
+	word-spacing:10px;
+	text-align:right;
+}
+
+.hrw{
+	width: 20%;
+	align-self: left;
+	margin-left: 1%;
+	color:skyblue;
+}
+
+.icon {
+	background-color:black;
+	color:white;
+	cursor: pointer;
+}
+
+#sp {
+	width:40px;
+    height:40px;
+    color:white;
+}
+.ce {
+  text-align: center;	
+}
+
+#sp1 {
+	width:150px;
+    height:150px;
+    color:white;
+}
+
+.icon1 {
+	background-color:white;
+	color:black;
+	cursor: pointer;
+}
+#ap {
+	font-size:20px;
+	text-align:left;
+	color:gray;
+}
+
+.rw 
+{
+	background-color:red;
+	color:white;	
+}
+
+.yw 
+{
+	background-color:yellow;
+	color:white;	
+}
+
+.gw 
+{
+	background-color:green;
+	color:white;	
+}
+
+#sw 
+{
+	background-color:silver;
+	color:white;	
+	padding:5px 5px;
+}
+.bw 
+{
+	background-color:blue;
+	color:white;	
+}
+
+#d {
+  width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
+
+#c {
+text-align:center;	
+}
+
+.views{
+	border-color: #66CDAA;
+	color:#66CDAA;
+}
+
+.sl {
+  width: 100%;
+  font-size:20px;
+  color:gray;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  text-align:center;
+}
+
+select
+{
+	border: 0px;
+	outline: 0px;
+	background-color:white;
+}
+
+#btn {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-style:none;
+  font-size: 16px;
+  cursor: pointer;
+  word-spacing:1px;
+}
+
+.btn1 {
+  color:#87CEEB;
+  text-align: center;
+  text-decoration: none;
+  border-color:#87CEEB;
+  background-color:white;
+  font-size: 16px;
+  cursor: pointer;
+  word-spacing:1px;
+  border-color:#87CEEB;
+}
+
+#b2 {
+	background-image:url("../images/texture-bw.png");
+	height: 75px;
+}
+
+#cy {
+	color:#87CEEB;
+}
+
+#cy1
+{
+	background-color:#87CEEB;
+	padding:5px 5px;
+	color:white;
+}
+
+.w {
+	width:100%
+}
+
+#mp{
+	height: 200px;
+	width: 100%;
+	border: 0px;
+}
+
+#bl {
+color:black;	
+}
+
+#gy {
+color:silver;	
+}
+
+#wht {
+color:white;	
+}
+
+#rd {
+	color:red;
+}
+
+#gr {
+	color:green;
+}
